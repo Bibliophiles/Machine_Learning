@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "7cb72053",
+   "id": "3e72add2",
    "metadata": {
     "papermill": {
-     "duration": 0.00792,
-     "end_time": "2024-09-28T03:50:03.325466",
+     "duration": 0.00703,
+     "end_time": "2024-09-28T04:51:15.574106",
      "exception": false,
-     "start_time": "2024-09-28T03:50:03.317546",
+     "start_time": "2024-09-28T04:51:15.567076",
      "status": "completed"
     },
     "tags": []
@@ -21,13 +21,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "847b8aba",
+   "id": "e71a6ca5",
    "metadata": {
     "papermill": {
-     "duration": 0.006539,
-     "end_time": "2024-09-28T03:50:03.339115",
+     "duration": 0.006044,
+     "end_time": "2024-09-28T04:51:15.586067",
      "exception": false,
-     "start_time": "2024-09-28T03:50:03.332576",
+     "start_time": "2024-09-28T04:51:15.580023",
      "status": "completed"
     },
     "tags": []
@@ -43,19 +43,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "18b0d066",
+   "id": "b893d0af",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:03.354848Z",
-     "iopub.status.busy": "2024-09-28T03:50:03.354330Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.169994Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.168288Z"
+     "iopub.execute_input": "2024-09-28T04:51:15.599579Z",
+     "iopub.status.busy": "2024-09-28T04:51:15.599151Z",
+     "iopub.status.idle": "2024-09-28T04:51:17.816286Z",
+     "shell.execute_reply": "2024-09-28T04:51:17.815171Z"
     },
     "papermill": {
-     "duration": 2.827113,
-     "end_time": "2024-09-28T03:50:06.172941",
+     "duration": 2.226667,
+     "end_time": "2024-09-28T04:51:17.818536",
      "exception": false,
-     "start_time": "2024-09-28T03:50:03.345828",
+     "start_time": "2024-09-28T04:51:15.591869",
      "status": "completed"
     },
     "tags": []
@@ -79,13 +79,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "08347622",
+   "id": "e5d54401",
    "metadata": {
     "papermill": {
-     "duration": 0.006777,
-     "end_time": "2024-09-28T03:50:06.187126",
+     "duration": 0.005859,
+     "end_time": "2024-09-28T04:51:17.831206",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.180349",
+     "start_time": "2024-09-28T04:51:17.825347",
      "status": "completed"
     },
     "tags": []
@@ -96,13 +96,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6cbe0270",
+   "id": "725af65a",
    "metadata": {
     "papermill": {
-     "duration": 0.006756,
-     "end_time": "2024-09-28T03:50:06.200877",
+     "duration": 0.006747,
+     "end_time": "2024-09-28T04:51:17.844228",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.194121",
+     "start_time": "2024-09-28T04:51:17.837481",
      "status": "completed"
     },
     "tags": []
@@ -118,19 +118,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "bb9d0468",
+   "id": "c663ac73",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.217214Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.216340Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.240159Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.238750Z"
+     "iopub.execute_input": "2024-09-28T04:51:17.858667Z",
+     "iopub.status.busy": "2024-09-28T04:51:17.857852Z",
+     "iopub.status.idle": "2024-09-28T04:51:17.874659Z",
+     "shell.execute_reply": "2024-09-28T04:51:17.873743Z"
     },
     "papermill": {
-     "duration": 0.035058,
-     "end_time": "2024-09-28T03:50:06.242905",
+     "duration": 0.026278,
+     "end_time": "2024-09-28T04:51:17.876607",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.207847",
+     "start_time": "2024-09-28T04:51:17.850329",
      "status": "completed"
     },
     "tags": []
@@ -222,38 +222,69 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "9ee18cb7",
+   "id": "caeed020",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.260779Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.259762Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.264959Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.263777Z"
+     "iopub.execute_input": "2024-09-28T04:51:17.891482Z",
+     "iopub.status.busy": "2024-09-28T04:51:17.891114Z",
+     "iopub.status.idle": "2024-09-28T04:51:17.899879Z",
+     "shell.execute_reply": "2024-09-28T04:51:17.898735Z"
     },
     "papermill": {
-     "duration": 0.016896,
-     "end_time": "2024-09-28T03:50:06.267688",
+     "duration": 0.018855,
+     "end_time": "2024-09-28T04:51:17.902299",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.250792",
+     "start_time": "2024-09-28T04:51:17.883444",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "application/javascript": [
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"interactionType\": 3, \"questionType\": 1, \"questionId\": \"1_FruitDfCreation\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\", \"outcomeType\": 4}}, \"*\")"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/markdown": [
+       "<span style=\"color:#33cc99\">Solution:</span> \n",
+       "```python\n",
+       "fruits = pd.DataFrame([[30, 21]], columns=['Apples', 'Bananas'])\n",
+       "```"
+      ],
+      "text/plain": [
+       "Solution: \n",
+       "```python\n",
+       "fruits = pd.DataFrame([[30, 21]], columns=['Apples', 'Bananas'])\n",
+       "```"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
     "#q1.hint()\n",
-    "#q1.solution()"
+    "q1.solution()"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "c41e1fcb",
+   "id": "2a10949e",
    "metadata": {
     "papermill": {
-     "duration": 0.008355,
-     "end_time": "2024-09-28T03:50:06.283745",
+     "duration": 0.008699,
+     "end_time": "2024-09-28T04:51:17.920745",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.275390",
+     "start_time": "2024-09-28T04:51:17.912046",
      "status": "completed"
     },
     "tags": []
@@ -269,19 +300,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "0613f8ee",
+   "id": "8fb56c8f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.301724Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.301216Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.318931Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.317732Z"
+     "iopub.execute_input": "2024-09-28T04:51:17.941899Z",
+     "iopub.status.busy": "2024-09-28T04:51:17.941541Z",
+     "iopub.status.idle": "2024-09-28T04:51:17.964573Z",
+     "shell.execute_reply": "2024-09-28T04:51:17.963425Z"
     },
     "papermill": {
-     "duration": 0.029604,
-     "end_time": "2024-09-28T03:50:06.321483",
+     "duration": 0.035977,
+     "end_time": "2024-09-28T04:51:17.966681",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.291879",
+     "start_time": "2024-09-28T04:51:17.930704",
      "status": "completed"
     },
     "tags": []
@@ -380,38 +411,71 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "c6d5e1ab",
+   "id": "7f1631b1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.340971Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.340462Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.345857Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.344682Z"
+     "iopub.execute_input": "2024-09-28T04:51:17.983507Z",
+     "iopub.status.busy": "2024-09-28T04:51:17.983088Z",
+     "iopub.status.idle": "2024-09-28T04:51:17.992500Z",
+     "shell.execute_reply": "2024-09-28T04:51:17.990689Z"
     },
     "papermill": {
-     "duration": 0.018573,
-     "end_time": "2024-09-28T03:50:06.348414",
+     "duration": 0.020173,
+     "end_time": "2024-09-28T04:51:17.994675",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.329841",
+     "start_time": "2024-09-28T04:51:17.974502",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "application/javascript": [
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"interactionType\": 3, \"questionType\": 1, \"questionId\": \"2_FruitSalesDfCreation\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\", \"outcomeType\": 4}}, \"*\")"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/markdown": [
+       "<span style=\"color:#33cc99\">Solution:</span> \n",
+       "```python\n",
+       "fruit_sales = pd.DataFrame([[35, 21], [41, 34]], columns=['Apples', 'Bananas'],\n",
+       "                index=['2017 Sales', '2018 Sales'])\n",
+       "```"
+      ],
+      "text/plain": [
+       "Solution: \n",
+       "```python\n",
+       "fruit_sales = pd.DataFrame([[35, 21], [41, 34]], columns=['Apples', 'Bananas'],\n",
+       "                index=['2017 Sales', '2018 Sales'])\n",
+       "```"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
     "#q2.hint()\n",
-    "#q2.solution()"
+    "q2.solution()"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "c8f3ff55",
+   "id": "f45b4d09",
    "metadata": {
     "papermill": {
-     "duration": 0.00803,
-     "end_time": "2024-09-28T03:50:06.364721",
+     "duration": 0.007502,
+     "end_time": "2024-09-28T04:51:18.010293",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.356691",
+     "start_time": "2024-09-28T04:51:18.002791",
      "status": "completed"
     },
     "tags": []
@@ -433,19 +497,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "c0291a83",
+   "id": "351747cb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.383387Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.382881Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.398632Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.397493Z"
+     "iopub.execute_input": "2024-09-28T04:51:18.027866Z",
+     "iopub.status.busy": "2024-09-28T04:51:18.027495Z",
+     "iopub.status.idle": "2024-09-28T04:51:18.041299Z",
+     "shell.execute_reply": "2024-09-28T04:51:18.040294Z"
     },
     "papermill": {
-     "duration": 0.028072,
-     "end_time": "2024-09-28T03:50:06.401008",
+     "duration": 0.025473,
+     "end_time": "2024-09-28T04:51:18.043625",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.372936",
+     "start_time": "2024-09-28T04:51:18.018152",
      "status": "completed"
     },
     "tags": []
@@ -508,38 +572,73 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "e9444a19",
+   "id": "81b2a032",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.421864Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.420862Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.426199Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.424963Z"
+     "iopub.execute_input": "2024-09-28T04:51:18.062719Z",
+     "iopub.status.busy": "2024-09-28T04:51:18.061851Z",
+     "iopub.status.idle": "2024-09-28T04:51:18.078802Z",
+     "shell.execute_reply": "2024-09-28T04:51:18.077718Z"
     },
     "papermill": {
-     "duration": 0.018422,
-     "end_time": "2024-09-28T03:50:06.428717",
+     "duration": 0.028913,
+     "end_time": "2024-09-28T04:51:18.080969",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.410295",
+     "start_time": "2024-09-28T04:51:18.052056",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "application/javascript": [
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"interactionType\": 3, \"questionType\": 2, \"questionId\": \"3_RecipeSeriesCreation\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\", \"outcomeType\": 4}}, \"*\")"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/markdown": [
+       "<span style=\"color:#33cc99\">Solution:</span> \n",
+       "```python\n",
+       "quantities = ['4 cups', '1 cup', '2 large', '1 can']\n",
+       "items = ['Flour', 'Milk', 'Eggs', 'Spam']\n",
+       "recipe = pd.Series(quantities, index=items, name='Dinner')\n",
+       "```"
+      ],
+      "text/plain": [
+       "Solution: \n",
+       "```python\n",
+       "quantities = ['4 cups', '1 cup', '2 large', '1 can']\n",
+       "items = ['Flour', 'Milk', 'Eggs', 'Spam']\n",
+       "recipe = pd.Series(quantities, index=items, name='Dinner')\n",
+       "```"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
     "#q3.hint()\n",
-    "#q3.solution()"
+    "q3.solution()"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "69c55885",
+   "id": "c99270f8",
    "metadata": {
     "papermill": {
-     "duration": 0.008687,
-     "end_time": "2024-09-28T03:50:06.446269",
+     "duration": 0.00812,
+     "end_time": "2024-09-28T04:51:18.098489",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.437582",
+     "start_time": "2024-09-28T04:51:18.090369",
      "status": "completed"
     },
     "tags": []
@@ -563,19 +662,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "7df613dd",
+   "id": "b217ea33",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.466078Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.465625Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.477618Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.476410Z"
+     "iopub.execute_input": "2024-09-28T04:51:18.116879Z",
+     "iopub.status.busy": "2024-09-28T04:51:18.116576Z",
+     "iopub.status.idle": "2024-09-28T04:51:19.049046Z",
+     "shell.execute_reply": "2024-09-28T04:51:19.047959Z"
     },
     "papermill": {
-     "duration": 0.02529,
-     "end_time": "2024-09-28T03:50:06.480401",
+     "duration": 0.944313,
+     "end_time": "2024-09-28T04:51:19.051280",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.455111",
+     "start_time": "2024-09-28T04:51:18.106967",
      "status": "completed"
     },
     "tags": []
@@ -584,7 +683,7 @@
     {
      "data": {
       "application/javascript": [
-       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"outcomeType\": 4, \"interactionType\": 1, \"questionType\": 1, \"questionId\": \"4_ReadWineCsv\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\"}}, \"*\")"
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"outcomeType\": 1, \"valueTowardsCompletion\": 0.16666666666666666, \"interactionType\": 1, \"questionType\": 1, \"questionId\": \"4_ReadWineCsv\", \"learnToolsVersion\": \"0.3.4\", \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\"}}, \"*\")"
       ],
       "text/plain": [
        "<IPython.core.display.Javascript object>"
@@ -596,10 +695,10 @@
     {
      "data": {
       "text/markdown": [
-       "<span style=\"color:#ccaa33\">Check:</span> When you've updated the starter code, `check()` will tell you whether your code is correct. You need to update the code that creates variable `reviews`"
+       "<span style=\"color:#33cc33\">Correct</span>"
       ],
       "text/plain": [
-       "Check: When you've updated the starter code, `check()` will tell you whether your code is correct. You need to update the code that creates variable `reviews`"
+       "Correct"
       ]
      },
      "metadata": {},
@@ -607,9 +706,138 @@
     },
     {
      "data": {
-      "text/markdown": [],
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>country</th>\n",
+       "      <th>description</th>\n",
+       "      <th>designation</th>\n",
+       "      <th>points</th>\n",
+       "      <th>price</th>\n",
+       "      <th>province</th>\n",
+       "      <th>region_1</th>\n",
+       "      <th>region_2</th>\n",
+       "      <th>variety</th>\n",
+       "      <th>winery</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>US</td>\n",
+       "      <td>This tremendous 100% varietal wine hails from ...</td>\n",
+       "      <td>Martha's Vineyard</td>\n",
+       "      <td>96</td>\n",
+       "      <td>235.0</td>\n",
+       "      <td>California</td>\n",
+       "      <td>Napa Valley</td>\n",
+       "      <td>Napa</td>\n",
+       "      <td>Cabernet Sauvignon</td>\n",
+       "      <td>Heitz</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>Spain</td>\n",
+       "      <td>Ripe aromas of fig, blackberry and cassis are ...</td>\n",
+       "      <td>Carodorum Selección Especial Reserva</td>\n",
+       "      <td>96</td>\n",
+       "      <td>110.0</td>\n",
+       "      <td>Northern Spain</td>\n",
+       "      <td>Toro</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>Tinta de Toro</td>\n",
+       "      <td>Bodega Carmen Rodríguez</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>...</th>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>150928</th>\n",
+       "      <td>France</td>\n",
+       "      <td>A perfect salmon shade, with scents of peaches...</td>\n",
+       "      <td>Grand Brut Rosé</td>\n",
+       "      <td>90</td>\n",
+       "      <td>52.0</td>\n",
+       "      <td>Champagne</td>\n",
+       "      <td>Champagne</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>Champagne Blend</td>\n",
+       "      <td>Gosset</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>150929</th>\n",
+       "      <td>Italy</td>\n",
+       "      <td>More Pinot Grigios should taste like this. A r...</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>90</td>\n",
+       "      <td>15.0</td>\n",
+       "      <td>Northeastern Italy</td>\n",
+       "      <td>Alto Adige</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>Pinot Grigio</td>\n",
+       "      <td>Alois Lageder</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>150930 rows × 10 columns</p>\n",
+       "</div>"
+      ],
       "text/plain": [
-       "<learntools.core.constants.PlaceholderValue at 0x7de4d4ec0820>"
+       "       country                                        description  \\\n",
+       "0           US  This tremendous 100% varietal wine hails from ...   \n",
+       "1        Spain  Ripe aromas of fig, blackberry and cassis are ...   \n",
+       "...        ...                                                ...   \n",
+       "150928  France  A perfect salmon shade, with scents of peaches...   \n",
+       "150929   Italy  More Pinot Grigios should taste like this. A r...   \n",
+       "\n",
+       "                                 designation  points  price  \\\n",
+       "0                          Martha's Vineyard      96  235.0   \n",
+       "1       Carodorum Selección Especial Reserva      96  110.0   \n",
+       "...                                      ...     ...    ...   \n",
+       "150928                       Grand Brut Rosé      90   52.0   \n",
+       "150929                                   NaN      90   15.0   \n",
+       "\n",
+       "                  province     region_1 region_2             variety  \\\n",
+       "0               California  Napa Valley     Napa  Cabernet Sauvignon   \n",
+       "1           Northern Spain         Toro      NaN       Tinta de Toro   \n",
+       "...                    ...          ...      ...                 ...   \n",
+       "150928           Champagne    Champagne      NaN     Champagne Blend   \n",
+       "150929  Northeastern Italy   Alto Adige      NaN        Pinot Grigio   \n",
+       "\n",
+       "                         winery  \n",
+       "0                         Heitz  \n",
+       "1       Bodega Carmen Rodríguez  \n",
+       "...                         ...  \n",
+       "150928                   Gosset  \n",
+       "150929            Alois Lageder  \n",
+       "\n",
+       "[150930 rows x 10 columns]"
       ]
      },
      "execution_count": 8,
@@ -618,9 +846,11 @@
     }
    ],
    "source": [
-    "reviews = ____\n",
     "\n",
-    "# Check your answer\n",
+    "\n",
+    "reviews = pd.read_csv(\"../input/wine-reviews/winemag-data_first150k.csv\",index_col=0)\n",
+    "\n",
+    "#Check your answer\n",
     "q4.check()\n",
     "reviews"
    ]
@@ -628,19 +858,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "50f5410d",
+   "id": "4eae3bb0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.503168Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.502191Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.507773Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.506405Z"
+     "iopub.execute_input": "2024-09-28T04:51:19.072455Z",
+     "iopub.status.busy": "2024-09-28T04:51:19.072029Z",
+     "iopub.status.idle": "2024-09-28T04:51:19.077971Z",
+     "shell.execute_reply": "2024-09-28T04:51:19.076753Z"
     },
     "papermill": {
-     "duration": 0.019411,
-     "end_time": "2024-09-28T03:50:06.510543",
+     "duration": 0.01945,
+     "end_time": "2024-09-28T04:51:19.080668",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.491132",
+     "start_time": "2024-09-28T04:51:19.061218",
      "status": "completed"
     },
     "tags": []
@@ -653,13 +883,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6dc65bb2",
+   "id": "e8ad19ec",
    "metadata": {
     "papermill": {
-     "duration": 0.009615,
-     "end_time": "2024-09-28T03:50:06.530066",
+     "duration": 0.009462,
+     "end_time": "2024-09-28T04:51:19.103547",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.520451",
+     "start_time": "2024-09-28T04:51:19.094085",
      "status": "completed"
     },
     "tags": []
@@ -673,19 +903,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "f835fc9e",
+   "id": "999e892e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.551912Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.551399Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.564435Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.563155Z"
+     "iopub.execute_input": "2024-09-28T04:51:19.123879Z",
+     "iopub.status.busy": "2024-09-28T04:51:19.123527Z",
+     "iopub.status.idle": "2024-09-28T04:51:19.133946Z",
+     "shell.execute_reply": "2024-09-28T04:51:19.132931Z"
     },
     "papermill": {
-     "duration": 0.027205,
-     "end_time": "2024-09-28T03:50:06.567145",
+     "duration": 0.022766,
+     "end_time": "2024-09-28T04:51:19.136053",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.539940",
+     "start_time": "2024-09-28T04:51:19.113287",
      "status": "completed"
     },
     "tags": []
@@ -749,13 +979,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9a539c16",
+   "id": "251fc915",
    "metadata": {
     "papermill": {
-     "duration": 0.009592,
-     "end_time": "2024-09-28T03:50:06.586536",
+     "duration": 0.009317,
+     "end_time": "2024-09-28T04:51:19.155146",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.576944",
+     "start_time": "2024-09-28T04:51:19.145829",
      "status": "completed"
     },
     "tags": []
@@ -767,19 +997,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "b69a808f",
+   "id": "bec7825c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.608415Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.608002Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.618042Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.617014Z"
+     "iopub.execute_input": "2024-09-28T04:51:19.175686Z",
+     "iopub.status.busy": "2024-09-28T04:51:19.175386Z",
+     "iopub.status.idle": "2024-09-28T04:51:19.183471Z",
+     "shell.execute_reply": "2024-09-28T04:51:19.182405Z"
     },
     "papermill": {
-     "duration": 0.024007,
-     "end_time": "2024-09-28T03:50:06.620590",
+     "duration": 0.021059,
+     "end_time": "2024-09-28T04:51:19.185752",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.596583",
+     "start_time": "2024-09-28T04:51:19.164693",
      "status": "completed"
     },
     "tags": []
@@ -820,19 +1050,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "c8c7bf59",
+   "id": "2d18d63e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-28T03:50:06.643569Z",
-     "iopub.status.busy": "2024-09-28T03:50:06.643100Z",
-     "iopub.status.idle": "2024-09-28T03:50:06.647892Z",
-     "shell.execute_reply": "2024-09-28T03:50:06.646810Z"
+     "iopub.execute_input": "2024-09-28T04:51:19.213952Z",
+     "iopub.status.busy": "2024-09-28T04:51:19.213659Z",
+     "iopub.status.idle": "2024-09-28T04:51:19.217529Z",
+     "shell.execute_reply": "2024-09-28T04:51:19.216561Z"
     },
     "papermill": {
-     "duration": 0.019356,
-     "end_time": "2024-09-28T03:50:06.650349",
+     "duration": 0.020123,
+     "end_time": "2024-09-28T04:51:19.219515",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.630993",
+     "start_time": "2024-09-28T04:51:19.199392",
      "status": "completed"
     },
     "tags": []
@@ -845,13 +1075,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "660ae94b",
+   "id": "e627247b",
    "metadata": {
     "papermill": {
-     "duration": 0.010239,
-     "end_time": "2024-09-28T03:50:06.671268",
+     "duration": 0.009494,
+     "end_time": "2024-09-28T04:51:19.239147",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.661029",
+     "start_time": "2024-09-28T04:51:19.229653",
      "status": "completed"
     },
     "tags": []
@@ -864,13 +1094,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4e8b3ad2",
+   "id": "d6aa180a",
    "metadata": {
     "papermill": {
-     "duration": 0.010243,
-     "end_time": "2024-09-28T03:50:06.692111",
+     "duration": 0.009633,
+     "end_time": "2024-09-28T04:51:19.258616",
      "exception": false,
-     "start_time": "2024-09-28T03:50:06.681868",
+     "start_time": "2024-09-28T04:51:19.248983",
      "status": "completed"
     },
     "tags": []
@@ -964,14 +1194,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 7.113527,
-   "end_time": "2024-09-28T03:50:07.326084",
+   "duration": 6.646127,
+   "end_time": "2024-09-28T04:51:19.687674",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-09-28T03:50:00.212557",
+   "start_time": "2024-09-28T04:51:13.041547",
    "version": "2.6.0"
   }
  },
